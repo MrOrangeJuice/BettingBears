@@ -36,6 +36,8 @@
   "name":"BettingBears",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBall","path":"sprites/sBall/sBall.yy",},},
+    {"id":{"name":"sPalette","path":"sprites/sPalette/sPalette.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
